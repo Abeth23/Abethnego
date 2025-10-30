@@ -14,7 +14,7 @@
 <div align="center">
 
 ![Abethnego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abethnego&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abethnego&layout=compact&theme=radical)
+![Java, Spring boot](https://github-readme-stats.vercel.app/api/top-langs/?username=abethnego&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=abethnego&theme=radical&border_radius=10)
 
 </div>

@@ -14,7 +14,8 @@
 1. **PayPal Payment Integration System** - Spring Boot, Docker, AWS
 
 ### 📫 Connect With Me
-[![LinkedIn]](https://www.linkedin.com/in/abeth-nego/)  [![Email]()](abethnego425@gmail.com)
+[![LinkedIn]](https://www.linkedin.com/in/abeth-nego/)  [![Email](https://img.shields.io/badge/Email-abethnego425@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abethnego425@gmail.com)
+
 
 ---
 ⚡ Currently: Building scalable microservices | Learning: Kubernetes, Advanced Spring Security

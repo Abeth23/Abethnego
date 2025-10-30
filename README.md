@@ -13,8 +13,16 @@
 ### 🔥 Featured Projects
 1. **PayPal Payment Integration System** - Spring Boot, Docker, AWS
 
-### 📫 Connect With Me
-[![LinkedIn]](https://www.linkedin.com/in/abeth-nego/)  [![Email](https://img.shields.io/badge/Email-abethnego425@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abethnego425@gmail.com)
+### 📬 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abethnego-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abethnego)
+[![GitHub](https://img.shields.io/badge/GitHub-abeth23-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abeth23)
+[![Email](https://img.shields.io/badge/Email-abethnego425@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abethnego425@gmail.com)
+
+</div>
+
 
 
 ---
